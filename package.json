@@ -1,0 +1,17 @@
+{
+  "name": "dq_sendmail",
+  "version": "1.0.0",
+  "description": "DQ job container to send out email",
+  "main": "index.js",
+  "keywords": [
+    "dq",
+    "email",
+    "nodemailer"
+  ],
+  "author": "Shrikrishna Holla <shrikrishna.holla@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^3.0.0",
+    "nodemailer": "^2.5.0"
+  }
+}
